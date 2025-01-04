@@ -9,3 +9,5 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 ----
 
 ## Technologies Used
+- HTML: For the structure and layout of the webpage.
+- CSS: For styling and making it easy.
